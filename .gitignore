@@ -1,0 +1,18 @@
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & Temp
+*.log
+*.tmp
+temp/
+
+# Jenkins
+.jenkins/
+workspace/
